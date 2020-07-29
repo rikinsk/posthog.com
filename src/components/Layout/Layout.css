@@ -10,6 +10,10 @@
   src: url('/GoshaSans-Regular.ttf');
 }
 
+@font-face {
+  font-family: 'Gosha Sans';
+  src: url('/GoshaSans-Regular.ttf') format('truetype');
+}
 
 html {
   font-family: lato !important;
